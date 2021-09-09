@@ -128,7 +128,7 @@ struct ContentView: View {
                     Text("\(volumeOutputValue, specifier: "%.2f")")
                 }
             }
-            .navigationTitle(Text("UnitsConverter"))
+            .navigationTitle(Text("Units Converter"))
         }
     }
 }
